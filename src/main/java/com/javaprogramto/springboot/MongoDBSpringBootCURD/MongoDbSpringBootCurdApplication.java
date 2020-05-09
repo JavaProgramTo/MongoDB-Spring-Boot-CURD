@@ -8,7 +8,9 @@ import org.springframework.context.annotation.ComponentScan;
 public class MongoDbSpringBootCurdApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(MongoDbSpringBootCurdApplication.class, args);
+
     }
 
 }
